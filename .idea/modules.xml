@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/hexo-theme-book-demo.iml" filepath="$PROJECT_DIR$/.idea/hexo-theme-book-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/github-blogs.iml" filepath="$PROJECT_DIR$/.idea/github-blogs.iml" />
     </modules>
   </component>
 </project>
