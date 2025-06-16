@@ -3,7 +3,7 @@ layout: page
 title: 关于
 description:
 keywords: 许大头
-comments: true
+comments: false
 menu: 关于
 permalink: /about/
 ---
