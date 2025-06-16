@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: /
-url: https://xubighead.github.io/blogs/
+url: https://xubighead.github.io/blogs
 date_format: "ordinal"
 title: 许大头的个人博客
 subtitle: "公众号：暂无"
