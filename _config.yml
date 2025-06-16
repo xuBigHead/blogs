@@ -68,39 +68,21 @@ email: 1390589756@qq.com
 #    Navigation    #
 # ---------------- #
 navs:
-  -
-    href: /
+  - href: /
     label: 首页
-
-  -
-    href: /categories/
+  - href: /categories/
     label: 分类
-
-  -
-    href: /archives/
+  - href: /archives/
     label: 归档
     mobile-hidden: true
-
-  -
-    href: /open-source/
-    label: 开源
-    mobile-hidden: true
-
-  -
-    href: /fragments/
+  - href: /fragments/
     label: 片段
-
-  -
-    href: /wiki/
+  - href: /wiki/
     label: 维基
-
-  -
-    href: /links/
+  - href: /links/
     label: 链接
     mobile-hidden: true
-
-  -
-    href: /about/
+  - href: /about/
     label: 关于
 
 # ---------------- #
