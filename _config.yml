@@ -79,7 +79,7 @@ theme: book
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/kaiiiz/hexo-theme-book-demo
+  repo: https://github.com/xuBigHead/blogs
   branch: gh-pages
 
 markdown:
