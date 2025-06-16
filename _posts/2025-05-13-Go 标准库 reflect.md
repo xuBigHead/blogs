@@ -1,3 +1,16 @@
+---
+layout: post
+title: Go 标准库 reflect.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Go 标准库 reflect
 
 ## 反射概述
@@ -661,4 +674,3 @@ func main() {
 | ------------------------------------------ | -------- |
 | Get(key string) string                     |          |
 | Lookup(key string) (value string, ok bool) |          |
-

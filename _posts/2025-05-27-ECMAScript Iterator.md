@@ -1,3 +1,16 @@
+---
+layout: post
+title: ECMAScript Iterator.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # ECMAScript Iterator
 
 ## 概述
@@ -195,4 +208,3 @@ for (let x of obj) {
   console.log(x); // hello world
 }
 ```
-

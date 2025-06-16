@@ -1,3 +1,16 @@
+---
+layout: post
+title: ECMAScript Math.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # ECMAScript Math
 
 ## 源码解析

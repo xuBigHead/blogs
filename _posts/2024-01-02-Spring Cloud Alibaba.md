@@ -1,3 +1,16 @@
+---
+layout: post
+title: Spring Cloud Alibaba.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # 链路追踪
 
 [Tracing Analysis](https://www.aliyun.com/product/xtrace?spm=a2c4g.11174283.2.1.5f5e1a79YqK0vN)
@@ -13,6 +26,5 @@
 [ACM](https://www.aliyun.com/product/acm?spm=5176.10695662.951544.1.187a6756peiYY9)
 
 [阿里云文档地址](https://help.aliyun.com/document_detail/59953.html?spm=5176.163362.847321.doc.21c72539KpL8NG)
-
 
 

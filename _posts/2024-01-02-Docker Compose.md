@@ -1,3 +1,16 @@
+---
+layout: post
+title: Docker Compose.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Docker Compose
 
 Docker Compose帮助我们批量有规则的管理容器，可以实现批量启动服务并管理服务间的依赖关系。

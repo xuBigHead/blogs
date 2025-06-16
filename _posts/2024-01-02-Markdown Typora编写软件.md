@@ -1,3 +1,16 @@
+---
+layout: post
+title: Markdown Typora编写软件.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Typora
 
 ## Keymap
@@ -51,4 +64,3 @@
 | 实际大小        | 视图→实际大小        | Ctrl+Shift+9 |       |
 | 放大            | 视图→放大            | Ctrl+Shift+= |       |
 | 缩放            | 视图→缩放            | Ctrl+Shift+- |       |
-

@@ -1,3 +1,16 @@
+---
+layout: post
+title: supervisor.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 ```conf
 [program:admin]
 user=root
@@ -109,4 +122,3 @@ stdout_logfile_backups=5
 stderr_logfile_maxbytes=10MB
 stderr_logfile_backups=5
 ```
-

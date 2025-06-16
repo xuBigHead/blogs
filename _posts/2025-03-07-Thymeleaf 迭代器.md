@@ -1,3 +1,16 @@
+---
+layout: post
+title: Thymeleaf 迭代器.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Thymeleaf 迭代器
 
 
@@ -125,4 +138,3 @@ Thymeleaf 提供 _状态变量（status variable）_ 来跟踪迭代器的状态
   </tr>
 </table>
 ```
-

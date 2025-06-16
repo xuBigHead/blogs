@@ -1,3 +1,16 @@
+---
+layout: post
+title: JDK NumberFormat.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # JDK类 NumberFormat
 
 ## 概述
@@ -16,4 +29,3 @@ public abstract class NumberFormat extends Format  {
 
 
 ## 实践应用
-

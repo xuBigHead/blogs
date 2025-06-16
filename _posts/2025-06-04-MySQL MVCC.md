@@ -1,3 +1,16 @@
+---
+layout: post
+title: MySQL MVCC.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # MySQL_MVCC
 MVCC（Multiversion concurrency control）就是同一份数据保留多版本的一种方式，进而实现并发控制。MVCC是在存储引擎层进行实现的，不同存储引擎对MVCC有不同的实现标准。在查询的时候，通过read view和版本链找到对应版本的数据。
 

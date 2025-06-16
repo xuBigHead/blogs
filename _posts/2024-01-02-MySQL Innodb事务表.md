@@ -1,3 +1,16 @@
+---
+layout: post
+title: MySQL Innodb事务表.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # 查看事务表
 
 可以在 information_schema 库的 innodb_trx 这个表中查询事务信息。
@@ -73,4 +86,3 @@ trx_autocommit_non_locking: 0
        trx_schedule_weight: NULL
 1 row in set (0.01 sec)
 ```
-

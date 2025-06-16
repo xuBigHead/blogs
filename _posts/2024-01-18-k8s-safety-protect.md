@@ -1,3 +1,16 @@
+---
+layout: post
+title: k8s-safety-protect.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Safety Protect
 
 ## API服务器的安全防护

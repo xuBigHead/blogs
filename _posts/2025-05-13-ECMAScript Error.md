@@ -1,3 +1,16 @@
+---
+layout: post
+title: ECMAScript Error.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # ECMAScript Error
 
 ## 概述
@@ -61,4 +74,3 @@ interface ErrorConstructor {
     (message?: string, options?: ErrorOptions): Error;
 }
 ```
-

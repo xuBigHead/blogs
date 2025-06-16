@@ -1,3 +1,16 @@
+---
+layout: post
+title: Thymeleaf 内联.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Thymeleaf 内联
 
 ## 表达式内联
@@ -199,4 +212,3 @@ align = 'center'
     }
 </style>
 ```
-

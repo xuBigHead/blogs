@@ -1,3 +1,16 @@
+---
+layout: post
+title: MybatisPlus 简介.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # MyBatis_Plus
 
 [MyBatis-Plus](https://github.com/baomidou/mybatis-plus)是一个 [MyBatis](http://www.mybatis.org/mybatis-3/)的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。

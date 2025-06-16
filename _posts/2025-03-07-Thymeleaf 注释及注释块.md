@@ -1,3 +1,16 @@
+---
+layout: post
+title: Thymeleaf 注释及注释块.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Thymeleaf 注释及注释块
 
 ## 标准 HTML/XML 注释

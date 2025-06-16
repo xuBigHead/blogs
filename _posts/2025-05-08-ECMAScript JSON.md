@@ -1,3 +1,16 @@
+---
+layout: post
+title: ECMAScript JSON.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # ECMAScript JSON
 
 ## 源码解析
@@ -70,4 +83,3 @@ JSON.stringify('\uDF06\uD834') // ""\\udf06\\ud834""
 ## 参考资料
 
 - [ECMAScript 6 入门 - 字符串的扩展](https://es6.ruanyifeng.com/#docs/string)
-

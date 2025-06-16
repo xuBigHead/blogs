@@ -1,3 +1,16 @@
+---
+layout: post
+title: k8s-configmap-and-secret.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # ConfigMap & Secret
 
 ConfigMap扮演了K8S集群中配置中心的角色。ConfigMap定义了Pod的配置信息，可以以存储卷的形式挂载至Pod中的应用程序配置文件目录，从configmap中读取配置信息；也可以基于环境变量的形式，从ConfigMap中获取变量注入到Pod容器中使用。但是ConfigMap是明文保存的，如果用来保存数据库账号密码这样敏感信息，就非常不安全。一般这样的敏感信息配置是通过`secret`来保存。`secret`的功能和ConfigMap一样，不过secret是通过Base64的编码机制保存配置信息。

@@ -1,3 +1,16 @@
+---
+layout: post
+title: Spring Bean 生命周期.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 ## 对象生命周期
 
 对 Prototype Bean 来说，当用户 getBean 获得 Prototype Bean 的实例后，IOC 容器就不再对当前实例进行管理，而是把管理权交由用户，此后再 getBean 生成的是新的实例。

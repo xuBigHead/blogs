@@ -1,3 +1,16 @@
+---
+layout: post
+title: Thymeleaf 设置属性值.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Thymeleaf 设置属性值
 
 本章将介绍我们在标记中设置（或修改）属性值的方式。

@@ -1,3 +1,16 @@
+---
+layout: post
+title: ECMAScript Set.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # ECMAScript Set
 
 ## 概述
@@ -699,4 +712,3 @@ var ws = new WeakSet();
 var a = [[1,2], [3,4]];
 var ws2 = new WeakSet(a);
 ```
-

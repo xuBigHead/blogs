@@ -1,3 +1,16 @@
+---
+layout: post
+title: Spring Context 缓存.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Spring Context 缓存
 
 ## 概述

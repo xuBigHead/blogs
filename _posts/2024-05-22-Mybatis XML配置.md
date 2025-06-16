@@ -1,3 +1,16 @@
+---
+layout: post
+title: Mybatis XML配置.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # XML配置
 
 Mybatis核心配置文件是mybatis-config.xml文件。
@@ -330,6 +343,5 @@ Dao 接口里的方法，是不能重载的，因为是全限名+方法名的保
 - 接口实现类继承SqlSessionDaoSupport；
 - 使用MapperFactoryBean；
 - 使用mapper扫描；
-
 
 

@@ -1,3 +1,16 @@
+---
+layout: post
+title: Thymeleaf 属性优先级.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Thymeleaf 属性优先级
 
 当在同一个标签中写入多个`th:*`属性时，会发生什么？ 对于下面的例子：

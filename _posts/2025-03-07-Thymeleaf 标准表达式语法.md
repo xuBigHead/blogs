@@ -1,3 +1,16 @@
+---
+layout: post
+title: Thymeleaf 标准表达式语法.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Thymeleaf 标准表达式语法
 
 Thymeleaf 标准表达式（ Standard Expression）语法，是 Thymeleaf 标准方言（Standard Dialect）的最重要组成部分之一。
@@ -554,4 +567,3 @@ Thymeleaf 的双大括号为变量表达式（`$ {...}`）和选择表达式（`
 ```
 
 我们看到的变量表达式`${sel.code}`将先被执行，假如结果是`"ALL"`，那么_之间的值`"ALL"`将被看做表达式的一部分被执行，在这里会变成`selection.ALL`。	
-

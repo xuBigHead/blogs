@@ -1,3 +1,16 @@
+---
+layout: post
+title: Go 标准库 context.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Go 标准库 `context`
 
 ## 概述
@@ -1015,6 +1028,5 @@ context包最大的作用就是解决了cancelation的问题，所以一般在�
 
 - 使用`context`可以更好的做并发控制，能更好的管理`goroutine`滥用。
 - `context`的携带者功能没有任何限制，这样可以传递任何的数据，可以说这是一把双刃剑
-
 
 

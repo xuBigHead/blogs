@@ -1,3 +1,16 @@
+---
+layout: post
+title: ECMAScript 运算符.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # ECMAScript 运算符
 
 ## 赋值运算符
@@ -1798,6 +1811,5 @@ $ ./hello.js
 ## 参考资料
 
 - [数组的扩展 - ECMAScript 6入门](https://es6.ruanyifeng.com/#docs/array#%E6%89%A9%E5%B1%95%E8%BF%90%E7%AE%97%E7%AC%A6)
-
 
 

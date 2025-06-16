@@ -1,3 +1,16 @@
+---
+layout: post
+title: ECMAScript Proxy.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # ECMAScript Proxy
 
 ## 概述
@@ -1729,4 +1742,3 @@ Object.setPrototypeOf(proxy, proto);
 ## 参考资料
 
 - [Proxy - ECMAScript 6入门](https://es6.ruanyifeng.com/#docs/proxy)
-

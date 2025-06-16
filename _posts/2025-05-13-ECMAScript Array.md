@@ -1,3 +1,16 @@
+---
+layout: post
+title: ECMAScript Array.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # ECMAScript Array
 
 ## 功能特性
@@ -1371,4 +1384,3 @@ interface Int16Array<TArrayBuffer extends ArrayBufferLike = ArrayBufferLike> {
     [index: number]: number;
 }
 ```
-

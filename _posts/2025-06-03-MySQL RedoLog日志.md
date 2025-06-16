@@ -1,3 +1,16 @@
+---
+layout: post
+title: MySQL RedoLog日志.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # MySQL RedoLog日志
 
 记录更新时，InnoDB引擎就会先把记录写到RedoLog里面，并更新内存。同时，InnoDB引擎会在空闲时将这个操作记录更新到磁盘里面。如果更新太多RedoLog处理不了的时候，需先将RedoLog部分数据写到磁盘，然后擦除RedoLog部分数据。RedoLog类似转盘。
@@ -314,7 +327,6 @@ binlog和redo log虽然都是记录了同一份数据变化，但是两者都是
 
 
 所以有了 redo log，再通过 WAL 技术，InnoDB 就可以保证即使数据库发生异常重启，之前已提交的记录都不会丢失，这个能力称为 **crash-safe**（崩溃恢复）。可以看出来， **redo log 保证了事务四大特性中的持久性**。
-
 
 
 

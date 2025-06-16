@@ -1,3 +1,16 @@
+---
+layout: post
+title: Protocol Buffers.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Protocol Buffers
 
 ## 简介
@@ -438,4 +451,3 @@ proto文件位置参数即上述的`@<filename>`参数，指定了.proto文件�
 ## 参考资料
 
 - [Go是如何实现protobuf的编解码的(1)：原理](https://lessisbetter.site/2019/08/26/protobuf-in-go/)
-

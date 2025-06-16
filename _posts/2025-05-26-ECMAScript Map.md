@@ -1,3 +1,16 @@
+---
+layout: post
+title: ECMAScript Map.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # ECMAScript Map
 
 ## 概述
@@ -830,7 +843,6 @@ c.dec()
 ## 参考资料
 
 - [Set 和 Map 数据结构 - ECMAScript 6入门](https://es6.ruanyifeng.com/#docs/set-map)
-
 
 
 

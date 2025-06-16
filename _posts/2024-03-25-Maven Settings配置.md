@@ -1,3 +1,16 @@
+---
+layout: post
+title: Maven Settings配置.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Maven Settings 配置
 
 Maven配置文件`settings.xml`默认在`$USER_HOME/.m2`文件夹中，一般直接修改默认配置文件最方便，IDEA和eclipse等IDE会自动应用默认配置文件，一劳永逸。
@@ -317,4 +330,3 @@ under the License.
   -->
 </settings>
 ```
-

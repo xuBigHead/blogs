@@ -1,3 +1,16 @@
+---
+layout: post
+title: ECMAScript 关键字.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # ECMAScript 关键字
 
 ## var关键字
@@ -335,4 +348,3 @@ obj.foo() // "world"
 ```
 
 上面代码中，`super.foo`指向原型对象`proto`的`foo`方法，但是绑定的`this`却还是当前对象`obj`，因此输出的就是`world`。
-

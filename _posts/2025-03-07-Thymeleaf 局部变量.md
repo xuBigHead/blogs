@@ -1,3 +1,16 @@
+---
+layout: post
+title: Thymeleaf 局部变量.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Thymeleaf 局部变量
 
 在迭代器中，我们可以使用局部变量`prod`：

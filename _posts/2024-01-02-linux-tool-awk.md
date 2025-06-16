@@ -1,3 +1,16 @@
+---
+layout: post
+title: linux-tool-awk.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Awk_Programming
 
 awk指令是一个强大的文本分析工具，网上资料很多，这里就不展开说了；本例子简单解释一下就是从access.log日志中取第一个参数（$1）,因为日志中第一个参数就是我们需要的ip信息

@@ -1,3 +1,16 @@
+---
+layout: post
+title: Entity Framework Core.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Entity Framework Core
 
 ## 数据库连接
@@ -142,4 +155,3 @@ OnModelCreating 重写此方法以进一步配置通过DbSet派生上下文中�
 
 
 ## DbSet
-

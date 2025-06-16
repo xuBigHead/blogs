@@ -1,3 +1,16 @@
+---
+layout: post
+title: ElementPlus.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # 版本升级
 
 ## 找不到./lib/locale/lang/zh-cn
@@ -22,4 +35,3 @@ import zhCn from "element-plus/lib/locale/lang/zh-cn";
 // 改为
 import zhCn from "element-plus/es/locale/lang/zh-cn";
 ```
-

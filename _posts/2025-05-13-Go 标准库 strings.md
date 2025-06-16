@@ -1,3 +1,16 @@
+---
+layout: post
+title: Go 标准库 strings.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Go 标准库 strings
 
 ## 概述
@@ -45,4 +58,3 @@ func TestTrim(t *testing.T) {
 	})) // 森z众
 }
 ```
-

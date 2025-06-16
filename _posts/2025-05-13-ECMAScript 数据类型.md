@@ -1,3 +1,16 @@
+---
+layout: post
+title: ECMAScript 数据类型.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # ECMAScript 数据类型
 
 ## 基础类型
@@ -1028,4 +1041,3 @@ for (let i of arr) {
 - [字符串的扩展 | ECMAScript 6入门](https://wohugb.gitbooks.io/ecmascript-6/content/docs/string.html)
 
   
-

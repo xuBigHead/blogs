@@ -1,3 +1,16 @@
+---
+layout: post
+title: ECMAScript String.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # ECMAScript String
 
 ## 源码解析
@@ -821,7 +834,6 @@ for (let i of text) {
 - [字符串的扩展](https://wohugb.gitbooks.io/ecmascript-6/content/docs/string.html)
 - [字符串的新增方法 - ECMAScript 6入门](https://es6.ruanyifeng.com/#docs/string-methods)
 - [ES6 字符串 | 菜鸟教程](https://www.runoob.com/w3cnote/es6-string.html)
-
 
 
 

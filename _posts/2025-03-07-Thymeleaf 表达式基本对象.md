@@ -1,3 +1,16 @@
+---
+layout: post
+title: Thymeleaf 表达式基本对象.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Thymeleaf 表达式基本对象
 
 一些对象和变量 map 总是可以被调用。 让我们来看看他们：

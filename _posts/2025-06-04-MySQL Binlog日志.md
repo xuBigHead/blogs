@@ -1,3 +1,16 @@
+---
+layout: post
+title: MySQL Binlog日志.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # MySQL BinLog 日志
 
 MySQL 在完成一条更新操作后，Server 层还会生成一条 binlog，等之后事务提交的时候，会将该事物执行过程中产生的所有 binlog 统一写 入 binlog 文件。binlog主要用于恢复数据库和同步数据库。

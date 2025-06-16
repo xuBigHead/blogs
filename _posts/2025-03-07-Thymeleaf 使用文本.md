@@ -1,3 +1,16 @@
+---
+layout: post
+title: Thymeleaf 使用文本.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Thymeleaf 使用文本
 
 先看一个页面示例：
@@ -263,4 +276,3 @@ public void process(
 正如你所看到的，我们仍然使用`th:text`属性，但是这个时候语法有点不同，不是  `#{...}`，我们使用 `${...}`。 这是一个变量表达式，它包含一个名为OGNL（Object-Graph Navigation Language）的表达式。
 
  `${today}` 表达式只是意味着“获取名为 today 的变量”，但是这些表达式可能可以更复杂（例如 `${user.name}` 表示变量为  user的变量，调用其 `getName()` 方法。
-

@@ -1,3 +1,16 @@
+---
+layout: post
+title: linux-os-opencloudos8.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 ## Docker
 ### 安装Docker
 ```shell
@@ -19,5 +32,4 @@ docker info
 # 设置docker自启动 
 systemctl enable docker.service
 ```
-
 

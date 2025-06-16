@@ -1,3 +1,16 @@
+---
+layout: post
+title: JavaScript 简介.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # JavaScript
 
 ## 数据
@@ -704,7 +717,6 @@ console.log(outObj) // {inObj: {a: 2, b: 2}}
 | 是否存在暂时性死区 | ×       | ✔️       | ✔️         |
 | 是否必须设置初始值 | ×       | ×       | ✔️         |
 | 能否改变指针指向   | ✔️       | ✔️       | ×         |
-
 
 
 

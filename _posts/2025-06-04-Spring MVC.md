@@ -1,3 +1,16 @@
+---
+layout: post
+title: Spring MVC.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Spring_Web_MVC
 
 ## 概念

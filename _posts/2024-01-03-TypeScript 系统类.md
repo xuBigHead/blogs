@@ -1,3 +1,16 @@
+---
+layout: post
+title: TypeScript 系统类.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # TypeScript Number
 
 TypeScript 与 JavaScript 类似，支持 Number 对象。Number 对象是原始数值的包装对象。语法
@@ -868,4 +881,3 @@ for (let [key, value] of nameSiteMapping) {
     console.log(key, value);            
 }
 ```
-

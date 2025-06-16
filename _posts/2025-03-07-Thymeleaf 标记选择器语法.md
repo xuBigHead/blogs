@@ -1,3 +1,16 @@
+---
+layout: post
+title: Thymeleaf 标记选择器语法.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Thymeleaf 标记选择器语法
 
 Thymeleaf 的标记选择器语法可直接查看Thymeleaf 的解析库[AttoParser](http://attoparser.org)。

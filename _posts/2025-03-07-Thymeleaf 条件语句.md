@@ -1,3 +1,16 @@
+---
+layout: post
+title: Thymeleaf 条件语句.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # Thymeleaf 条件语句
 
 ## "if" 和 "unless"
@@ -53,4 +66,3 @@ switch 语句使用`th:switch` / `th:case` 属性集合来实现：
   <p th:case="*">User is some other thing</p>
 </div>
 ```
-

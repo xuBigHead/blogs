@@ -1,3 +1,16 @@
+---
+layout: post
+title: ECMAScript 基础.md
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
 # ECMAScript 简介
 
 ECMAScript表示浏览器脚本语言的标准，简称ES，Javascript是实现该标准的一种浏览器脚本语言。
@@ -1098,6 +1111,5 @@ module math from "circleplus";
 import exp from "circleplus";
 console.log(exp(math.pi));
 ```
-
 
 
