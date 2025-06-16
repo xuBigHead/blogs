@@ -1,19 +1,16 @@
-- name: Software Engineer Keywords
+- name: 编程语言
   keywords:
       - Java
-      - C++
-      - Python
-      - Design Patterns
+      - Go
 
-- name: Mobile Developer Keywords
+- name: 存储层技术
   keywords:
-      - Android
-      - Reverse Engineering
+      - MySQL
+      - Redis
 
-- name: Windows Developer Keywords
+- name: 其他技术
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - Nginx
+      - RocketMQ
+      - Linux
+      - Minio
