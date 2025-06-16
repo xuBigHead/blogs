@@ -10,6 +10,7 @@ flow: false
 mathjax: false
 mindmap: false
 mindmap2: false
+render_with_liquid: false  # 添加这行禁用Liquid处理
 ---
 ## LaTex
 
