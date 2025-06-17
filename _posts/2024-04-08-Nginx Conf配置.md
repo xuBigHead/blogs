@@ -2,8 +2,8 @@
 layout: post
 title: Nginx Conf配置.md
 categories: [Nginx]
-description: Nginx
-keywords: Nginx
+description: 
+keywords: Nginx Conf配置.md
 mermaid: false
 sequence: false
 flow: false

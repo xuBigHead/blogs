@@ -2,8 +2,8 @@
 layout: post
 title: Thymeleaf 使用文本.md
 categories: [Thymeleaf]
-description: Thymeleaf
-keywords: Thymeleaf
+description: 
+keywords: Thymeleaf 使用文本.md
 mermaid: false
 sequence: false
 flow: false

@@ -2,8 +2,8 @@
 layout: post
 title: Thymeleaf 属性优先级.md
 categories: [Thymeleaf]
-description: Thymeleaf
-keywords: Thymeleaf
+description: 
+keywords: Thymeleaf 属性优先级.md
 mermaid: false
 sequence: false
 flow: false

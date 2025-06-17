@@ -2,8 +2,8 @@
 layout: post
 title: supervisor.md
 categories: [supervisor]
-description: supervisor
-keywords: supervisor
+description: 
+keywords: supervisor.md
 mermaid: false
 sequence: false
 flow: false

@@ -2,8 +2,8 @@
 layout: post
 title: Mybatis XML配置.md
 categories: [Mybatis]
-description: Mybatis
-keywords: Mybatis
+description: 
+keywords: Mybatis XML配置.md
 mermaid: false
 sequence: false
 flow: false

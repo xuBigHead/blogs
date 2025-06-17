@@ -2,8 +2,8 @@
 layout: post
 title: JavaScript 简介.md
 categories: [Javascript]
-description: Javascript
-keywords: Javascript
+description: 
+keywords: JavaScript 简介.md
 mermaid: false
 sequence: false
 flow: false

@@ -2,8 +2,8 @@
 layout: post
 title: specifications.md
 categories: [其他]
-description: 其他
-keywords: 其他
+description: 
+keywords: specifications.md
 mermaid: false
 sequence: false
 flow: false

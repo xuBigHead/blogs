@@ -2,8 +2,8 @@
 layout: post
 title: linux-os-opencloudos8.md
 categories: [Linux]
-description: Linux
-keywords: Linux
+description: 
+keywords: linux-os-opencloudos8.md
 mermaid: false
 sequence: false
 flow: false

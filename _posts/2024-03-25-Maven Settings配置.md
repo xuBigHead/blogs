@@ -2,8 +2,8 @@
 layout: post
 title: Maven Settings配置.md
 categories: [Maven]
-description: Maven
-keywords: Maven
+description: 
+keywords: Maven Settings配置.md
 mermaid: false
 sequence: false
 flow: false

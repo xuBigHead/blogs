@@ -2,8 +2,8 @@
 layout: post
 title: Thymeleaf 内联.md
 categories: [Thymeleaf]
-description: Thymeleaf
-keywords: Thymeleaf
+description: 
+keywords: Thymeleaf 内联.md
 mermaid: false
 sequence: false
 flow: false

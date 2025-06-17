@@ -2,8 +2,8 @@
 layout: post
 title: Thymeleaf 局部变量.md
 categories: [Thymeleaf]
-description: Thymeleaf
-keywords: Thymeleaf
+description: 
+keywords: Thymeleaf 局部变量.md
 mermaid: false
 sequence: false
 flow: false

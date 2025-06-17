@@ -2,8 +2,8 @@
 layout: post
 title: Thymeleaf 条件语句.md
 categories: [Thymeleaf]
-description: Thymeleaf
-keywords: Thymeleaf
+description: 
+keywords: Thymeleaf 条件语句.md
 mermaid: false
 sequence: false
 flow: false

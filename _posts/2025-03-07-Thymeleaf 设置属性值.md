@@ -2,8 +2,8 @@
 layout: post
 title: Thymeleaf 设置属性值.md
 categories: [Thymeleaf]
-description: Thymeleaf
-keywords: Thymeleaf
+description: 
+keywords: Thymeleaf 设置属性值.md
 mermaid: false
 sequence: false
 flow: false

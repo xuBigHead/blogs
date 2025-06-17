@@ -2,8 +2,8 @@
 layout: post
 title: TypeScript.md
 categories: [TypeScript]
-description: TypeScript
-keywords: TypeScript
+description: 
+keywords: TypeScript.md
 mermaid: false
 sequence: false
 flow: false

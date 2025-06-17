@@ -2,8 +2,8 @@
 layout: post
 title: Entity Framework Core.md
 categories: [Entity Framework Core]
-description: Entity Framework Core
-keywords: Entity Framework Core
+description: 
+keywords: Entity Framework Core.md
 mermaid: false
 sequence: false
 flow: false

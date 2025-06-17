@@ -2,8 +2,8 @@
 layout: post
 title: linux-tool-awk.md
 categories: [Linux]
-description: Linux
-keywords: Linux
+description: 
+keywords: linux-tool-awk.md
 mermaid: false
 sequence: false
 flow: false
