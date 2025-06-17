@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thymeleaf 局部变量.md
+title: 2025-03-07-Thymeleaf 局部变量.md
 categories: [Thymeleaf]
 description: 
 keywords: Thymeleaf 局部变量.md

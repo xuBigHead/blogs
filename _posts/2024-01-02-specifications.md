@@ -1,6 +1,6 @@
 ---
 layout: post
-title: specifications.md
+title: 2024-01-02-specifications.md
 categories: [其他]
 description: 
 keywords: specifications.md

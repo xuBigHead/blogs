@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ECMAScript Math.md
+title: 2025-05-09-第009章-ECMAScript Math.md
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript Math.md

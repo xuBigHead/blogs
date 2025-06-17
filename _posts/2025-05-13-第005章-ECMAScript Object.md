@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ECMAScript Object.md
+title: 2025-05-13-第005章-ECMAScript Object.md
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript Object.md

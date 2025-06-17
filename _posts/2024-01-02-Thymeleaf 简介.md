@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thymeleaf 简介.md
+title: 2024-01-02-Thymeleaf 简介.md
 categories: [Thymeleaf]
 description: 
 keywords: Thymeleaf 简介.md

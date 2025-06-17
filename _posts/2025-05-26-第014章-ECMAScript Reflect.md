@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ECMAScript Reflect.md
+title: 2025-05-26-第014章-ECMAScript Reflect.md
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript Reflect.md

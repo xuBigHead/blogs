@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ECMAScript Function.md
+title: 2025-05-13-第016章-ECMAScript Function.md
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript Function.md

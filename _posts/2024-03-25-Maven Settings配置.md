@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maven Settings配置.md
+title: 2024-03-25-Maven Settings配置.md
 categories: [Maven]
 description: 
 keywords: Maven Settings配置.md

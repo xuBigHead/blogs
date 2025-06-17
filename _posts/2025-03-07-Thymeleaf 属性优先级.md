@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thymeleaf 属性优先级.md
+title: 2025-03-07-Thymeleaf 属性优先级.md
 categories: [Thymeleaf]
 description: 
 keywords: Thymeleaf 属性优先级.md

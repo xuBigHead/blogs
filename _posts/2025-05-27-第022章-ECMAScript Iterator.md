@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ECMAScript Iterator.md
+title: 2025-05-27-第022章-ECMAScript Iterator.md
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript Iterator.md

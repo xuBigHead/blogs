@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MySQL Buffer Pool.md
+title: 2024-01-02-第028章-MySQL Buffer Pool.md
 categories: [MySQL]
 description: 
 keywords: MySQL Buffer Pool.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ECMAScript Error.md
+title: 2025-05-13-第017章-ECMAScript Error.md
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript Error.md

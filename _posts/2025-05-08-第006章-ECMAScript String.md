@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ECMAScript String.md
+title: 2025-05-08-第006章-ECMAScript String.md
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript String.md

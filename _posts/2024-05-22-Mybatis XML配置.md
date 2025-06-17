@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mybatis XML配置.md
+title: 2024-05-22-Mybatis XML配置.md
 categories: [Mybatis]
 description: 
 keywords: Mybatis XML配置.md

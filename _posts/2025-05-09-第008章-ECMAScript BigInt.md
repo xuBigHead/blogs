@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ECMAScript BigInt.md
+title: 2025-05-09-第008章-ECMAScript BigInt.md
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript BigInt.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring Context 缓存.md
+title: 2025-03-28-第0010章-Spring Context 缓存.md
 categories: [Spring]
 description: 
 keywords: Spring Context 缓存.md

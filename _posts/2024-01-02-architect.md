@@ -1,6 +1,6 @@
 ---
 layout: post
-title: architect.md
+title: 2024-01-02-architect.md
 categories: [IT技术]
 description: 
 keywords: architect.md

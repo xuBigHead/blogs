@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thymeleaf 使用文本.md
+title: 2025-03-07-Thymeleaf 使用文本.md
 categories: [Thymeleaf]
 description: 
 keywords: Thymeleaf 使用文本.md

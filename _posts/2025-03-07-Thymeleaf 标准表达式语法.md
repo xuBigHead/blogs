@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thymeleaf 标准表达式语法.md
+title: 2025-03-07-Thymeleaf 标准表达式语法.md
 categories: [Thymeleaf]
 description: 
 keywords: Thymeleaf 标准表达式语法.md

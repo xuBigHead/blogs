@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TypeScript.md
+title: 2025-06-03-TypeScript.md
 categories: [TypeScript]
 description: 
 keywords: TypeScript.md

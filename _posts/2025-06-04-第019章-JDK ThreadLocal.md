@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JDK ThreadLocal.md
+title: 2025-06-04-第019章-JDK ThreadLocal.md
 categories: [Java]
 description: 
 keywords: JDK ThreadLocal.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thymeleaf 内联.md
+title: 2025-03-07-Thymeleaf 内联.md
 categories: [Thymeleaf]
 description: 
 keywords: Thymeleaf 内联.md

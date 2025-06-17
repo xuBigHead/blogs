@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entity Framework Core.md
+title: 2024-05-22-Entity Framework Core.md
 categories: [Entity Framework Core]
 description: 
 keywords: Entity Framework Core.md
