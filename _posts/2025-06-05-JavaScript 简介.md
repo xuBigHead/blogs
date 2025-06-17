@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-05-JavaScript 简介.md
+title: 2025-06-05-第000章-JavaScript 简介
 categories: [Javascript]
 description: 
 keywords: JavaScript 简介.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-k8s-configmap-and-secret.md
+title: 2024-01-02-第000章-k8s-configmap-and-secret
 categories: [Kubernetes 容器编排]
 description: 
 keywords: k8s-configmap-and-secret.md

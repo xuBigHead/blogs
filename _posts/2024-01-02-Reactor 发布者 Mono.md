@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-Reactor 发布者 Mono.md
+title: 2024-01-02-第000章-Reactor 发布者 Mono
 categories: [Reactor 响应式编程]
 description: 
 keywords: Reactor 发布者 Mono.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-05-Reactor 发布者 Flux.md
+title: 2025-06-05-第000章-Reactor 发布者 Flux
 categories: [Reactor 响应式编程]
 description: 
 keywords: Reactor 发布者 Flux.md

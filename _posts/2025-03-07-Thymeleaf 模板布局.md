@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-07-Thymeleaf 模板布局.md
+title: 2025-03-07-第000章-Thymeleaf 模板布局
 categories: [Thymeleaf]
 description: 
 keywords: Thymeleaf 模板布局.md

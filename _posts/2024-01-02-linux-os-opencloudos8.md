@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-linux-os-opencloudos8.md
+title: 2024-01-02-第000章-linux-os-opencloudos8
 categories: [Linux]
 description: 
 keywords: linux-os-opencloudos8.md

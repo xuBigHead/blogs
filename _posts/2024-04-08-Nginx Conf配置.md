@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-04-08-Nginx Conf配置.md
+title: 2024-04-08-第000章-Nginx Conf配置
 categories: [Nginx]
 description: 
 keywords: Nginx Conf配置.md

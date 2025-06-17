@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-MybatisPlus 简介.md
+title: 2024-01-02-第000章-MybatisPlus 简介
 categories: [Mybatis]
 description: 
 keywords: MybatisPlus 简介.md

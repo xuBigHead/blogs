@@ -1,0 +1,15 @@
+---
+layout: post
+title: 2024-01-02-第021章-Spring Cloud Config
+categories: [Spring]
+description: 
+keywords: Spring Cloud Config.md
+mermaid: false
+sequence: false
+flow: false
+mathjax: false
+mindmap: false
+mindmap2: false
+---
+# 参考资料
+- [Spring Cloud Config 官方中文文档](https://www.springcloud.cc/spring-cloud-config.html)

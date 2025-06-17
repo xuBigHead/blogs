@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-07-Thymeleaf 设置属性值.md
+title: 2025-03-07-第000章-Thymeleaf 设置属性值
 categories: [Thymeleaf]
 description: 
 keywords: Thymeleaf 设置属性值.md
