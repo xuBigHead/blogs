@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-05-第023章-JDK NumberFormat
+title: 第023章-JDK NumberFormat
 categories: [Java]
 description: 
 keywords: JDK NumberFormat.md

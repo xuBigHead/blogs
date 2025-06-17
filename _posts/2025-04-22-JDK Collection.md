@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-04-22-第013章-JDK Collection
+title: 第013章-JDK Collection
 categories: [Java]
 description: 
 keywords: JDK Collection.md

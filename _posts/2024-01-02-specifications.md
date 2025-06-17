@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第000章-specifications
+title: specifications
 categories: [其他]
 description: 
 keywords: specifications.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第000章-linux-tool-awk
+title: linux-tool-awk
 categories: [Linux]
 description: 
 keywords: linux-tool-awk.md

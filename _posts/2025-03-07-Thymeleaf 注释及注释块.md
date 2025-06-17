@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-07-第000章-Thymeleaf 注释及注释块
+title: Thymeleaf 注释及注释块
 categories: [Thymeleaf]
 description: 
 keywords: Thymeleaf 注释及注释块.md

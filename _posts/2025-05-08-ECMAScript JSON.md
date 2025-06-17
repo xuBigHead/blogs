@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-08-第020章-ECMAScript JSON
+title: 第020章-ECMAScript JSON
 categories: [ECMAScript]
 description: 1234
 keywords: ECMAScript JSON.md

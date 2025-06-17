@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-04-第021章-MySQL MVCC
+title: 第021章-MySQL MVCC
 categories: [MySQL]
 description: 
 keywords: MySQL MVCC.md

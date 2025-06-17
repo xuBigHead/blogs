@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-07-第000章-Thymeleaf 内联
+title: Thymeleaf 内联
 categories: [Thymeleaf]
 description: 
 keywords: Thymeleaf 内联.md

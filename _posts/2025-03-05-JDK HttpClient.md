@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-05-第021章-JDK HttpClient
+title: 第021章-JDK HttpClient
 categories: [Java]
 description: 
 keywords: JDK HttpClient.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第003章-Compile-tool
+title: 第003章-Compile-tool
 categories: [第三方库]
 description: 
 keywords: Compile-tool.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-13-第0010章-ECMAScript Array
+title: 第0010章-ECMAScript Array
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript Array.md

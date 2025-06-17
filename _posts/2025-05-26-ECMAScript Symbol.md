@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-26-第021章-ECMAScript Symbol
+title: 第021章-ECMAScript Symbol
 categories: [ECMAScript]
 description: ES6 引入了一种新的原始数据类型Symbol，表示独一无二的值。它属于 JavaScript 语言的原生数据类型之一。
 keywords: ECMAScript Symbol.md

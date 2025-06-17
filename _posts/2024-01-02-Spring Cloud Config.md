@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第021章-Spring Cloud Config
+title: 第021章-Spring Cloud Config
 categories: [Spring]
 description: 
 keywords: Spring Cloud Config.md

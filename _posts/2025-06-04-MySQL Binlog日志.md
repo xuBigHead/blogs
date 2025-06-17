@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-04-第023章-MySQL Binlog日志
+title: 第023章-MySQL Binlog日志
 categories: [MySQL]
 description: 
 keywords: MySQL Binlog日志.md

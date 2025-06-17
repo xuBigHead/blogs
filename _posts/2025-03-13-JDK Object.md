@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-13-第0010章-JDK Object
+title: 第0010章-JDK Object
 categories: [Java]
 description: 
 keywords: JDK Object.md

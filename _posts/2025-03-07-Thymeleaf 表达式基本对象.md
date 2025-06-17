@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-07-第000章-Thymeleaf 表达式基本对象
+title: Thymeleaf 表达式基本对象
 categories: [Thymeleaf]
 description: 
 keywords: Thymeleaf 表达式基本对象.md

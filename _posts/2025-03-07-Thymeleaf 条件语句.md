@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-07-第000章-Thymeleaf 条件语句
+title: Thymeleaf 条件语句
 categories: [Thymeleaf]
 description: 
 keywords: Thymeleaf 条件语句.md

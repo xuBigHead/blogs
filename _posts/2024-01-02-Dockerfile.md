@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第007章-Dockerfile
+title: 第007章-Dockerfile
 categories: [Docker 容器]
 description: 
 keywords: Dockerfile.md

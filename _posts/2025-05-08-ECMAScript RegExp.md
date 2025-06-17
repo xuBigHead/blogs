@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-08-第019章-ECMAScript RegExp
+title: 第019章-ECMAScript RegExp
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript RegExp.md

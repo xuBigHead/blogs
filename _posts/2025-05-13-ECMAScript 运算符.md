@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-13-第001章-ECMAScript 运算符
+title: 第001章-ECMAScript 运算符
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript 运算符.md

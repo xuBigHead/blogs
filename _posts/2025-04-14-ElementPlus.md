@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-04-14-第000章-ElementPlus
+title: ElementPlus
 categories: [ElementPlus]
 description: 
 keywords: ElementPlus.md

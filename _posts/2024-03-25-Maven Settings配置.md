@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-03-25-第000章-Maven Settings配置
+title: Maven Settings配置
 categories: [Maven]
 description: 
 keywords: Maven Settings配置.md

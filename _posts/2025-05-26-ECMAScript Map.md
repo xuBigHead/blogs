@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-26-第012章-ECMAScript Map
+title: 第012章-ECMAScript Map
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript Map.md

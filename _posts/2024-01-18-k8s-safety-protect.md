@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-18-第000章-k8s-safety-protect
+title: k8s-safety-protect
 categories: [Kubernetes 容器编排]
 description: 
 keywords: k8s-safety-protect.md

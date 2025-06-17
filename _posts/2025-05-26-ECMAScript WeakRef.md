@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-26-第023章-ECMAScript WeakRef
+title: 第023章-ECMAScript WeakRef
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript WeakRef.md

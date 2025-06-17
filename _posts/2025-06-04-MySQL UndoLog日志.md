@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-04-第025章-MySQL UndoLog日志
+title: 第025章-MySQL UndoLog日志
 categories: [MySQL]
 description: 
 keywords: MySQL UndoLog日志.md

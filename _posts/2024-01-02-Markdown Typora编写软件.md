@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第006章-Markdown Typora编写软件
+title: 第006章-Markdown Typora编写软件
 categories: [Markdown]
 description: 
 keywords: Markdown Typora编写软件.md

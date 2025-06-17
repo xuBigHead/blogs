@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-04-第001章-数据结构 Linkedlist
+title: 第001章-数据结构 Linkedlist
 categories: [数据结构]
 description: 
 keywords: 数据结构 Linkedlist.md

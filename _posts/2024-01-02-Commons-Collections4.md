@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第002章-Commons-Collections4
+title: 第002章-Commons-Collections4
 categories: [第三方库]
 description: 
 keywords: Commons-Collections4.md

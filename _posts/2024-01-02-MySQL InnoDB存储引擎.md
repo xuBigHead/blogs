@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第008章-MySQL InnoDB存储引擎
+title: 第008章-MySQL InnoDB存储引擎
 categories: [MySQL]
 description: 
 keywords: MySQL InnoDB存储引擎.md

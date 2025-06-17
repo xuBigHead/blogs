@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-06-第025章-JDK Random
+title: 第025章-JDK Random
 categories: [Java]
 description: 
 keywords: JDK Random.md

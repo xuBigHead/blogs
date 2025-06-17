@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-13-第039章-Go 标准库 strings
+title: 第039章-Go 标准库 strings
 categories: [Go]
 description: 
 keywords: Go 标准库 strings.md

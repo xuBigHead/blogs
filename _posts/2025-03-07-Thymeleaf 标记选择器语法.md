@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-07-第000章-Thymeleaf 标记选择器语法
+title: Thymeleaf 标记选择器语法
 categories: [Thymeleaf]
 description: 
 keywords: Thymeleaf 标记选择器语法.md

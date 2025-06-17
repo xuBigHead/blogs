@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-04-第009章-Spring Bean 生命周期
+title: 第009章-Spring Bean 生命周期
 categories: [Spring]
 description: 
 keywords: Spring Bean 生命周期.md

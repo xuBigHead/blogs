@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-13-第002章-ECMAScript 数据类型
+title: 第002章-ECMAScript 数据类型
 categories: [ECMAScript]
 description: ECMAScript定义了 ​​7 种原始数据类型（Primitive Types）​​ 和 ​​1 种引用数据类型（Object Type）​​。
 keywords: ECMAScript 数据类型.md

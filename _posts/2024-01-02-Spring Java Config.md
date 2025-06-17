@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第017章-Spring Java Config
+title: 第017章-Spring Java Config
 categories: [Spring]
 description: 
 keywords: Spring Java Config.md

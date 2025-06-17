@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-04-第012章-Spring MVC
+title: 第012章-Spring MVC
 categories: [Spring]
 description: 
 keywords: Spring MVC.md

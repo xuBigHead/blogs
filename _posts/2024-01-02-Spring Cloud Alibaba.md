@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第020章-Spring Cloud Alibaba
+title: 第020章-Spring Cloud Alibaba
 categories: [Spring]
 description: 
 keywords: Spring Cloud Alibaba.md

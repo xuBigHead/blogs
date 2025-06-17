@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第006章-Spring Bean
+title: 第006章-Spring Bean
 categories: [Spring]
 description: 
 keywords: Spring Bean.md

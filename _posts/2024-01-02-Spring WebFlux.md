@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第016章-Spring WebFlux
+title: 第016章-Spring WebFlux
 categories: [Spring]
 description: 
 keywords: Spring WebFlux.md

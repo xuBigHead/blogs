@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-09-第007章-ECMAScript Number
+title: 第007章-ECMAScript Number
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript Number.md

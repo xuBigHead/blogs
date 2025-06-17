@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-05-第018章-JDK Thread
+title: 第018章-JDK Thread
 categories: [Java]
 description: 
 keywords: JDK Thread.md

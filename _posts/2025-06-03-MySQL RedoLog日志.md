@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-03-第024章-MySQL RedoLog日志
+title: 第024章-MySQL RedoLog日志
 categories: [MySQL]
 description: 
 keywords: MySQL RedoLog日志.md

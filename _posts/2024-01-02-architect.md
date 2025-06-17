@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第000章-architect
+title: architect
 categories: [IT技术]
 description: 
 keywords: architect.md

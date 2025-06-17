@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-05-22-第000章-Entity Framework Core
+title: Entity Framework Core
 categories: [Entity Framework Core]
 description: 
 keywords: Entity Framework Core.md

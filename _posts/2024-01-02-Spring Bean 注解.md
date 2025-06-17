@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第007章-Spring Bean 注解
+title: 第007章-Spring Bean 注解
 categories: [Spring]
 description: 
 keywords: Spring Bean 注解.md

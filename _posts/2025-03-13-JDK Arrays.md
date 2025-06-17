@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-13-第012章-JDK Arrays
+title: 第012章-JDK Arrays
 categories: [Java]
 description: 
 keywords: JDK Arrays.md

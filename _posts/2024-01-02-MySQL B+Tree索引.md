@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第013章-MySQL B+Tree索引
+title: 第013章-MySQL B+Tree索引
 categories: [MySQL]
 description: 
 keywords: MySQL B+Tree索引.md

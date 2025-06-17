@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-03-第012章-TypeScript 系统类
+title: 第012章-TypeScript 系统类
 categories: [TypeScript]
 description: 
 keywords: TypeScript 系统类.md

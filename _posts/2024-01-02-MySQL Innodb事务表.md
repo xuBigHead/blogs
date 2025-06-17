@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第0010章-MySQL Innodb事务表
+title: 第0010章-MySQL Innodb事务表
 categories: [MySQL]
 description: 
 keywords: MySQL Innodb事务表.md

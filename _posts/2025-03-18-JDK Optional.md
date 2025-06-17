@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-18-第024章-JDK Optional
+title: 第024章-JDK Optional
 categories: [Java]
 description: 
 keywords: JDK Optional.md

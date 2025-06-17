@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第000章-Skywalking
+title: Skywalking
 categories: [Skywalking]
 description: 
 keywords: Skywalking.md

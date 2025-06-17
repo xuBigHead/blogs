@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-26-第015章-ECMAScript Promise
+title: 第015章-ECMAScript Promise
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript Promise.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-13-第003章-ECMAScript 关键字
+title: 第003章-ECMAScript 关键字
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript 关键字.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第019章-Spring Cloud
+title: 第019章-Spring Cloud
 categories: [Spring]
 description: 
 keywords: Spring Cloud.md

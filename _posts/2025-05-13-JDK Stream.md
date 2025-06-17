@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-13-第026章-JDK Stream
+title: 第026章-JDK Stream
 categories: [Java]
 description: 
 keywords: JDK Stream.md

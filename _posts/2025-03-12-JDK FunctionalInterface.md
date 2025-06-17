@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-12-第017章-JDK FunctionalInterface
+title: 第017章-JDK FunctionalInterface
 categories: [Java]
 description: 
 keywords: JDK FunctionalInterface.md

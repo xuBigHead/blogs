@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-26-第013章-ECMAScript Proxy
+title: 第013章-ECMAScript Proxy
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript Proxy.md

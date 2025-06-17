@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-14-第022章-JDK LocalDateTime
+title: 第022章-JDK LocalDateTime
 categories: [Java]
 description: 
 keywords: JDK LocalDateTime.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-13-第030章-Go 标准库 runtime
+title: 第030章-Go 标准库 runtime
 categories: [Go]
 description: 
 keywords: Go 标准库 runtime.md

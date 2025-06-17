@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-04-08-第000章-Go-Zero RPC项目
+title: Go-Zero RPC项目
 categories: [Go-Zero]
 description: 
 keywords: Go-Zero RPC项目.md

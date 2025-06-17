@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-06-20-第000章-supervisor
+title: supervisor
 categories: [supervisor]
 description: 
 keywords: supervisor.md

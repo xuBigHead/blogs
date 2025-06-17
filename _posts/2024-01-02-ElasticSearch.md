@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第000章-ElasticSearch
+title: ElasticSearch
 categories: [Elastic-search]
 description: 
 keywords: ElasticSearch.md

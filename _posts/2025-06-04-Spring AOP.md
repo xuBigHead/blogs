@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-04-第011章-Spring AOP
+title: 第011章-Spring AOP
 categories: [Spring]
 description: 
 keywords: Spring AOP.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-13-第018章-ECMAScript AggregateError
+title: 第018章-ECMAScript AggregateError
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript AggregateError.md

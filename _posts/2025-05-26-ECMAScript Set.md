@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-26-第011章-ECMAScript Set
+title: 第011章-ECMAScript Set
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript Set.md

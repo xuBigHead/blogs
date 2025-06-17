@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-05-第008章-Spring Bean 循环引用
+title: 第008章-Spring Bean 循环引用
 categories: [Spring]
 description: 
 keywords: Spring Bean 循环引用.md

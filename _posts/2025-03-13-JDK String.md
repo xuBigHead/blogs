@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-13-第011章-JDK String
+title: 第011章-JDK String
 categories: [Java]
 description: 
 keywords: JDK String.md

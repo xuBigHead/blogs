@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第004章-Markdown Mermaid图形
+title: 第004章-Markdown Mermaid图形
 categories: [Markdown]
 description: 
 keywords: Markdown Mermaid图形.md

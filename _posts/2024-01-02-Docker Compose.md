@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2024-01-02-第008章-Docker Compose
+title: 第008章-Docker Compose
 categories: [Docker 容器]
 description: 
 keywords: Docker Compose.md

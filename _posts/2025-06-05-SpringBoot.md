@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-06-05-第018章-SpringBoot
+title: 第018章-SpringBoot
 categories: [Spring]
 description: 
 keywords: SpringBoot.md

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-05-12-第004章-ECMAScript 函数
+title: 第004章-ECMAScript 函数
 categories: [ECMAScript]
 description: 
 keywords: ECMAScript 函数.md
