@@ -1,9 +1,9 @@
 ---
 layout: post
 title: JavaScript 简介.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [Javascript]
+description: Javascript
+keywords: Javascript
 mermaid: false
 sequence: false
 flow: false

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Thymeleaf 标记选择器语法.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [Thymeleaf]
+description: Thymeleaf
+keywords: Thymeleaf
 mermaid: false
 sequence: false
 flow: false

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Entity Framework Core.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [Entity Framework Core]
+description: Entity Framework Core
+keywords: Entity Framework Core
 mermaid: false
 sequence: false
 flow: false

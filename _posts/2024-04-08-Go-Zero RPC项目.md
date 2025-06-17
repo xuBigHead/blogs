@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Go-Zero RPC项目.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [Go-Zero]
+description: Go-Zero
+keywords: Go-Zero
 mermaid: false
 sequence: false
 flow: false

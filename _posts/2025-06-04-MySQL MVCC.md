@@ -1,9 +1,9 @@
 ---
 layout: post
 title: MySQL MVCC.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [MySQL]
+description: MySQL
+keywords: MySQL
 mermaid: false
 sequence: false
 flow: false

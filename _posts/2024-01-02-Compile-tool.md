@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Compile-tool.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [第三方库]
+description: 第三方库
+keywords: 第三方库
 mermaid: false
 sequence: false
 flow: false

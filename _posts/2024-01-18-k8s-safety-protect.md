@@ -1,9 +1,9 @@
 ---
 layout: post
 title: k8s-safety-protect.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [Kubernetes 容器编排]
+description: Kubernetes 容器编排
+keywords: Kubernetes 容器编排
 mermaid: false
 sequence: false
 flow: false

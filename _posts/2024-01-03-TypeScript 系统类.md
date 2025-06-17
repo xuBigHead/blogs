@@ -1,9 +1,9 @@
 ---
 layout: post
 title: TypeScript 系统类.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [TypeScript]
+description: TypeScript
+keywords: TypeScript
 mermaid: false
 sequence: false
 flow: false

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Markdown Typora编写软件.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [Markdown]
+description: Markdown
+keywords: Markdown
 mermaid: false
 sequence: false
 flow: false

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Reactor 发布者 Flux.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [Reactor 响应式编程]
+description: Reactor 响应式编程
+keywords: Reactor 响应式编程
 mermaid: false
 sequence: false
 flow: false

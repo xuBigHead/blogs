@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Skywalking.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [Skywalking]
+description: Skywalking
+keywords: Skywalking
 mermaid: false
 sequence: false
 flow: false

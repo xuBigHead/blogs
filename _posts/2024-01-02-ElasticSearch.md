@@ -1,9 +1,9 @@
 ---
 layout: post
 title: ElasticSearch.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [Elastic-search]
+description: Elastic-search
+keywords: Elastic-search
 mermaid: false
 sequence: false
 flow: false

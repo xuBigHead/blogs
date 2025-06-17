@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Nginx Conf配置.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [Nginx]
+description: Nginx
+keywords: Nginx
 mermaid: false
 sequence: false
 flow: false

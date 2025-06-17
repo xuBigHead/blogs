@@ -1,9 +1,9 @@
 ---
 layout: post
 title: linux-os-opencloudos8.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [Linux]
+description: Linux
+keywords: Linux
 mermaid: false
 sequence: false
 flow: false

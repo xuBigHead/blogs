@@ -1,9 +1,9 @@
 ---
 layout: post
 title: SpringBoot.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [Spring]
+description: Spring
+keywords: Spring
 mermaid: false
 sequence: false
 flow: false

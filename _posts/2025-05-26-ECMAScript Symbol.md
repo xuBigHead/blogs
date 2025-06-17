@@ -1,9 +1,9 @@
 ---
 layout: post
 title: ECMAScript Symbol.md
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: [ECMAScript]
+description: ECMAScript
+keywords: ECMAScript
 mermaid: false
 sequence: false
 flow: false
